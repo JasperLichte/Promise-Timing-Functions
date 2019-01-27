@@ -12,7 +12,7 @@ npm i promise-timing-functions
 ### Importing
 
 ```javascript
-import { promiseSetTimeout, promiseRequestAnimationFrame } from 'promise-timing-functions'
+const { promiseSetTimeout, promiseRequestAnimationFrame } = require('promise-timing-functions')
 ```
 
 ### promiseSetTimeOut
