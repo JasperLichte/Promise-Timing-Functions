@@ -18,9 +18,9 @@ const { promiseSetTimeout, promiseRequestAnimationFrame } = require('promise-tim
 ### promiseSetTimeOut
 
 ```javascript
-console.log(1);
+console.log(1)
 await promiseSetTimeout(1000) // pause for 1000ms
-console.log(2);
+console.log(2)
 ```
 
 ### promiseRequestAnimationFrame
